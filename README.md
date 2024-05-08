@@ -13,6 +13,6 @@ This repository is about my linux learning journey and hand written notes.
 11) tail
 12) locate
 13) find
-14) chmod = 4 stands for - read, 2 stands for - write ,1 standas for - execute. (user-group-other)
+14) chmod = 4 stands for - read, 2 stands for - write ,1 stands for - execute. (user-group-other)
 15) -exec
 16) grep
